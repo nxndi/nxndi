@@ -47,7 +47,20 @@ const skills = {
 </td>
 </tr>
 </table>
-```
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nxndi/nxndi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nxndi/nxndi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nxndi/nxndi/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/nxndi/nxndi/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
 
@@ -126,9 +139,7 @@ const skills = {
 
 </div>
 
----
-
-<div align="center">
+<div align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E2E8F0,50:CBD5E1,100:94A3B8&height=100&section=footer" />
 </div>
 
