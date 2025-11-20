@@ -48,8 +48,6 @@ const skills = {
 </tr>
 </table>
 
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nxndi/nxndi/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nxndi/nxndi/output/pacman-contribution-graph.svg">
@@ -61,8 +59,6 @@ const skills = {
 <!-- <img src="https://raw.githubusercontent.com/nxndi/nxndi/output/snake.svg" alt="Snake animation" /> -->
 
 ###
-
----
 
 ### 🛠️ Tech Stack
 
