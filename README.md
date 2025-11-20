@@ -20,10 +20,10 @@ I'm a passionate **frontend developer** dedicated to crafting intuitive and enga
 
 ```javascript
 const skills = {
-  languages: ["JavaScript", "TypeScript"],
-  frameworks: ["React", "Next.js", "Vue.js"],
-  styling: ["TailwindCSS", "SASS"],
-  tools: ["Git", "Vite", "Figma"]
+  languages: ["JavaScript", "TypeScript", "C#", "HTML", "CSS", ],
+  frameworks: ["React", "Vite"],
+  styling: ["TailwindCSS", "SASS", "Bootstrap"],
+  tools: ["Git", "Figma", "VS Code", "NPM", "Figma", "Framer Motion", "GSAP"]
 };
 ```
 
@@ -100,9 +100,9 @@ const skills = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nxndi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nxndi&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxndi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nxndi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="32%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nxndi&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxndi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="32%" />
 </div>
 
 ---
@@ -127,7 +127,7 @@ const skills = {
 
 ### 📫 Connect With Me
 
-<div align="center">
+<div align="left">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nxndi_rfld)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandi-rifaldi-529b542b3)
@@ -135,7 +135,7 @@ const skills = {
 
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E2E8F0,50:CBD5E1,100:94A3B8&height=100&section=footer" />
 </div>
 
