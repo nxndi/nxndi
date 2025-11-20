@@ -58,7 +58,7 @@ const skills = {
 
 ###
 
-<img src="https://raw.githubusercontent.com/nxndi/nxndi/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/nxndi/nxndi/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
