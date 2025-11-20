@@ -107,15 +107,7 @@ const skills = {
 
 ---
 
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nxndi&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
-</div>
-
----
-
-### 💼 What I'm Up To
+###  What I'm Up To
 
 - 🔭 Currently working on modern web applications with **React** and **Next.js**
 - 🌱 Learning advanced **TypeScript** patterns and **Web Performance Optimization**
